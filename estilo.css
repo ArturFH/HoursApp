@@ -1,0 +1,38 @@
+body {
+background: rgb(111, 170, 247);
+font: normal 15pt Arial
+}
+
+section{
+background: rgb(255, 255, 255);
+border-radius: 10px;
+padding: 20px;
+width: 500px;
+margin: auto;
+box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.596);
+text-align: center;
+}
+
+
+header{
+text-align: center;
+    color: rgb(0, 0, 0);
+
+}
+footer{
+text-align: center;
+font-style: italic;
+color: rgb(0, 0, 0);
+}
+#foto{ 
+    width: 300px;  
+    height: 300px;
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+    
+}
+#msg{
+    margin: auto;
+    font: bold 18pt Arial;
+}
